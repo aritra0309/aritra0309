@@ -1,15 +1,12 @@
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Aritra!+%F0%9F%91%8B;ML+%26+AI+Engineer;Data+Science+Enthusiast;Python+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF¢er=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Aritra!+%F0%9F%91%8B;Computer+Science+Student;Exploring+ML%2C+LLMs%2C+and+Agentic+AI;Building+projects+and+learning+in+public" alt="Typing SVG" />
 </h1>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aritra0309&label=Profile%20Views&color=0e75b6&style=flat" alt="aritra0309" />
   <a href="https://github.com/aritra0309?tab=followers">
     <img src="https://img.shields.io/github/followers/aritra0309?label=Followers&style=social" alt="GitHub Followers" />
   </a>
 </p>
-
 ---
 
 ## 🚀 About Me
@@ -90,7 +87,6 @@ I'm someone who just wants to make life easier.
 
 ## 📊 GitHub Stats (Proof I Actually Ship Stuff)
 
-> Numbers are cool. Clean commits are cooler.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aritra0309&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
@@ -105,7 +101,7 @@ I'm someone who just wants to make life easier.
 
 ## 🤝 Connect with Me
 
-> Always happy to talk projects, ideas, and "why is this bug behaving like that?"
+> Always happy to talk projects, ideas and opportunities
 
 <p align="left">
   <a href="https://github.com/aritra0309" target="_blank">
