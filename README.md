@@ -1,15 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Aritra!+%F0%9F%91%8B;ML+%26+AI+Engineer;Data+Science+Enthusiast;Python+Developer" alt="Typing SVG" />
-</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aritra0309&label=Profile%20Views&color=0e75b6&style=flat" alt="aritra0309" />
-  <a href="https://github.com/aritra0309?tab=followers">
-    <img src="https://img.shields.io/github/followers/aritra0309?label=Followers&style=social" alt="GitHub Followers" />
-  </a>
-</p>
-
----
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Aritra!+%F0%9F%91%8B;ML+%26+AI+Engineer;Data+Science+Enthusiast;Python+Developer" alt="Typing SVG" />
 </h1>
@@ -121,6 +110,12 @@ I'm someone who just wants to make life easier.
 <p align="left">
   <a href="https://github.com/aritra0309" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-aritra0309-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+    <a href="mailto:aritrasarkar423@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-aritrasarkar423%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/aritra-s" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Aritra%20Sarkar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
