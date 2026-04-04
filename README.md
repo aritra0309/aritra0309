@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF¢er=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Aritra!+%F0%9F%91%8B;Computer+Science+Student;Exploring+ML%2C+LLMs%2C+and+Agentic+AI;Building+projects+and+learning+in+public" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF¢er=true&vCenter=true&width=220&lines=Hello" alt="Typing SVG" />
 </h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aritra0309&label=Profile%20Views&color=0e75b6&style=flat" alt="aritra0309" />
