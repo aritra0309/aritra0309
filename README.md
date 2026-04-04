@@ -7,7 +7,6 @@
     <img src="https://img.shields.io/github/followers/aritra0309?label=Followers&style=social" alt="GitHub Followers" />
   </a>
 </p>
----
 
 ## 🚀 About Me
 I'm someone who just wants to make life easier.
