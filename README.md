@@ -51,13 +51,22 @@ I'm someone who just wants to make life easier.
 - **Main challenge:** Data alignment. Stock prices are available daily, but news flow is irregular, so sentiment and price timelines do not naturally line up for every company on every day.
 - **What I learned:** Building the model is only half the job; getting clean, synchronized data matters even more. I also learned that portfolio metrics must be unit-consistent (for example, return horizon vs. annualized volatility), or optimization can look smarter than it really is.
 - **Next thing I want to add:** Standardize return/risk time horizons for a cleaner Sharpe ratio, improve the sentiment pipeline so its impact is consistently reflected in saved artifacts, and decouple the Nifty 50 ticker list from the artifact so index updates are automatic.
-### 🔍 Hadoop Crime Project
-**Repo:** [hadoop-crime-project](https://github.com/aritra0309/hadoop-crime-project)
-- **Why I made it:** I built this to learn the Hadoop ecosystem hands-on (HDFS + Spark) using a real Indian crime dataset instead of toy examples, and to see how far I could take a full data pipeline from raw CSVs to forecasts and visualizations.
-- **What this repo does:** It ingests district-level IPC crime data (2001–2014), normalizes schema differences across years, aggregates to state-year totals, clusters states by crime profile, forecasts trends to 2020 using model selection (Ridge/Polynomial/GBR), and exports interactive HTML outputs (Folium choropleth + state trend chart).
-- **Main challenge:** Data and pipeline consistency: changing column names across files, weak state-name matching with GeoJSON, localhost-only HDFS paths, and dependency mismatch between code and requirements.
-- **What I learned:** Reliable preprocessing and naming consistency matter more than model complexity. I also learned that forecasting on short historical windows needs careful validation and explicit assumptions.
-- **Next thing I want to add:** Make config/path handling portable, use more of the available datasets, and add stronger forecast validation (Ridge regression on such a short time frame is not very reliable).
+ ### 🔍 Hadoop Crime Project                                                                                          
+  **Repo:** [hadoop-crime-project](https://github.com/aritra0309/hadoop-crime-project)                                 
+  - **Why I made it:** I wanted to learn HDFS + Spark hands-on using real NCRB crime data instead of toy examples, and 
+  see how far I could take a full data pipeline — from raw CSVs to clustering, forecasting, and interactive            
+  visualizations.                                                                                                      
+  - **What this repo does:** Ingests 8 district-level crime datasets (2001–2014), normalizes schemas across three      
+  different file eras, standardizes ~15 state name variants, clusters states by crime profile (KMeans + silhouette     
+  selection), computes a Women Safety Index, forecasts trends to 2020 (Ridge/GBR with TimeSeriesSplit CV), and exports 
+  interactive HTML outputs (Folium choropleth + Chart.js trends). Dockerized with GitHub Actions CI.                   
+  - **Main challenge:** Three dataset eras with completely different column headers, state name mismatches between NCRB
+   data and GeoJSON, and keeping the Docker build stable when Debian Trixie dropped Java 17 under us mid-CI.           
+  - **What I learned:** Preprocessing and naming consistency matter way more than model complexity — most real work was
+   in data_preparation.py, not the ML. Forecasting on short historical windows needs careful validation, and CI catches
+   dependency drift you'd never notice locally.                                                                        
+  - **Next thing I want to add:** Ingest post-2014 NCRB data to extend the time series, add forecast validation metrics
+   to the model report, and make HDFS paths configurable so it's not locked to localhost.     
 ### 🎨 Drawing with LLM - PaliGemma 2
 **Repo:** [drawing-with-llm-pali-gemma-2](https://github.com/aritra0309/drawing-with-llm-pali-gemma-2)
 - **Why I made it:** I built this for the Kaggle "Drawing with LLMs" challenge to test whether I could turn plain-text prompts into valid SVGs with a real multimodal pipeline, not just a one-model demo.
