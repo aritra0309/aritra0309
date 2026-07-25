@@ -3,7 +3,7 @@ Hi, I'm Aritra Sarkar 👋
 </h1>
 
 <p align="center">
-<b>Computational Statistics @ VIT</b> • AI/ML • Data Engineering • Open Source
+<b> AI/ML • Data Engineering • Automation • Kaagle • AI Contributor
 </p>
 
 <p align="center">
@@ -26,7 +26,8 @@ I'm passionate about building AI systems that solve real engineering problems—
 - Final-year Integrated M.Sc. student in Computational Statistics & Data Analysis
 - Interested in **LLMs, Agentic AI, Data Engineering and Distributed Systems**
 - Building open-source AI tools with Python
-- Currently contributing to open source and building AI infrastructure projects
+- Currently contributing working as an AI Contributor
+- Seeking opportunities in AI/ML, Data Science, Data Engineering, Software Engineering, and Product Engineering.
 
 ---
 
