@@ -70,13 +70,13 @@ FAISS • ChromaDB • Qdrant • LanceDB • Weaviate
 
 Python • FastAPI • Pydantic v2 • ChromaDB • FAISS • Qdrant • Sentence Transformers
 
-🔗 https://github.com/aritra0309/DocForge
+🔗 https://.com/aritra0309/DocForge
 
 ---
 
-## 🤖 GitHub Auto Maintainer
+## 🤖  Auto Maintainer
 
-Autonomous GitHub maintenance agent featuring:
+Autonomous  maintenance agent featuring:
 
 - Multi-model routing
 - Event-driven architecture
@@ -84,7 +84,7 @@ Autonomous GitHub maintenance agent featuring:
 - Policy guardrails
 - Human approval workflows
 
-🔗 https://github.com/aritra0309/github-auto-maintainer
+🔗 https://.com/aritra0309/-auto-maintainer
 
 ---
 
@@ -98,27 +98,10 @@ Distributed analytics platform built on Spark + Hadoop.
 - Clustering
 - Interactive dashboards
 
-🔗 https://github.com/aritra0309/hadoop-crime-project
+🔗 https://.com/aritra0309/hadoop-crime-project
 
 ---
 
-# GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aritra0309&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=aritra0309&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aritra0309&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 # Currently Learning
 
